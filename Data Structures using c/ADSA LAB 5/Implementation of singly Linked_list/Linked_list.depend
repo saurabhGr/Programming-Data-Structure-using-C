@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602845531 source:b:\mtech_adsa\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603276598 source:b:\mtech_adsa\adsa lab 5\implementation of singly linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+

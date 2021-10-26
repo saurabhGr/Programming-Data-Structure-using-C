@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602419318 source:b:\mtech_adsa\find_max_min_element\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602524251 source:b:\mtech_adsa\plyfair_2nd_approach\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602422153 source:b:\mtech_adsa\find_k_largest_element\main.c
+	<stdio.h>
+	<stdlib.h>
+

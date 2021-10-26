@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603650950 source:b:\mtech_adsa\amazon set 11\coin problem\main.c
+	<stdio.h>
+	<stdlib.h>
+

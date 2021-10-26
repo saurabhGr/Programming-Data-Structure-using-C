@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605979354 source:b:\mtech_adsa\stock_sell_buy_guide\main.c
+	<stdio.h>
+	<stdlib.h>
+

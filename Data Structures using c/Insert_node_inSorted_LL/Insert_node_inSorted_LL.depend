@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602484968 source:b:\mtech_adsa\insert_node_insorted_ll\main.c
+	<stdio.h>
+	<stdlib.h>
+

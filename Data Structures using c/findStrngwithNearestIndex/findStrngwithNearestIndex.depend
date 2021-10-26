@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601820970 source:b:\mtech_adsa\findstrngwithnearestindex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

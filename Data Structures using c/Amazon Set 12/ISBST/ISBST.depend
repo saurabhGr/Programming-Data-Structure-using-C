@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604225264 source:b:\mtech_adsa\amazon set 12\isbst\main.c
+	<stdio.h>
+	<stdlib.h>
+

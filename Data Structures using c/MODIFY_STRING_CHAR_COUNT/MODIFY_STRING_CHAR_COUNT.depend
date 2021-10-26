@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623566247 source:b:\mtech_adsa\modify_string_char_count\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

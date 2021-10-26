@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601896049 source:b:\mtech_adsa\ceasercipher\main.c
+	<stdio.h>
+	<string.h>
+
+1601896049 source:b:\mtech_adsa\crypto lab\lab 1\ceasercipher\main.c
+	<stdio.h>
+	<string.h>
+

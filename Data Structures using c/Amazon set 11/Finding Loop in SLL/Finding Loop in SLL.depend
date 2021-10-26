@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606394938 source:b:\mtech_adsa\amazon set 11\finding loop in sll\main.c
+	<stdio.h>
+	<stdlib.h>
+

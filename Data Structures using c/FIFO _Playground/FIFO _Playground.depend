@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601926151 source:b:\mtech_adsa\fifo _playground\main.c
+	<stdio.h>
+	<stdlib.h>
+

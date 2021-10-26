@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603276210 source:b:\mtech_adsa\binry_search_using_ll\main.c
+	<stdio.h>
+	<stdlib.h>
+

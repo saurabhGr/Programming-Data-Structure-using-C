@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603701700 source:b:\mtech_adsa\amazon set 11\atoi function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

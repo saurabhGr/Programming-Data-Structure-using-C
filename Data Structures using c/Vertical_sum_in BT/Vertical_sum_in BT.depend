@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606387797 source:b:\mtech_adsa\vertical_sum_in bt\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+

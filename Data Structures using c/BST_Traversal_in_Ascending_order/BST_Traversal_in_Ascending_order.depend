@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602416919 source:b:\mtech_adsa\bst_traversal_in_ascending_order\main.c
+	<stdio.h>
+	<stdlib.h>
+

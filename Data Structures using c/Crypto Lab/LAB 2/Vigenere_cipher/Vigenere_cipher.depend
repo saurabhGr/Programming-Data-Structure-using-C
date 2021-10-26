@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602530812 source:b:\mtech_adsa\vigenere_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1607425287 source:b:\mtech_adsa\crypto lab\lab 2\vigenere_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601518269 source:b:\mtech_adsa\search_palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

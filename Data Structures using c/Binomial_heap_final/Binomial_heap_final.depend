@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609433001 source:b:\mtech_adsa\binomial_heap_final\main.c
+	<stdio.h>
+	<stdlib.h>
+

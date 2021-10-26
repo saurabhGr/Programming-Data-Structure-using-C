@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602582143 source:b:\mtech_adsa\hillcipher\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+

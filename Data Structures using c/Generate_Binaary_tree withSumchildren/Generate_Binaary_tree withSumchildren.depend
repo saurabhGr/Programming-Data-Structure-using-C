@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602318678 source:b:\mtech_adsa\generate_binaary_tree withsumchildren\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602310403 source:b:\mtech_adsa\bttodll\main.c
+	<stdio.h>
+	<stdlib.h>
+

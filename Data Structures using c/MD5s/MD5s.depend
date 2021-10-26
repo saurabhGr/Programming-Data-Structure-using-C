@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609261246 source:b:\mtech_adsa\md5s\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607090575 source:b:\mtech_adsa\aes_encyption\main.c
+	<stdio.h>
+	<stdlib.h>
+

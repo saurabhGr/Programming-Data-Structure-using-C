@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604848866 source:b:\mtech_adsa\set_of_linear_equtions\main.c
+	<stdio.h>
+	<stdlib.h>
+

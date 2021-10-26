@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603764299 source:b:\mtech_adsa\amazon set 11\longest palindrome in a string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

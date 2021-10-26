@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603103389 source:b:\mtech_adsa\railfence_technique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1603868178 source:b:\mtech_adsa\crypto lab\lab 3\railfence_technique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602267391 source:b:\mtech_adsa\median_of _two_sorted_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

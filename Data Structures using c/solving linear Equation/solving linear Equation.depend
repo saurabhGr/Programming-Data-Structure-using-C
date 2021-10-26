@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604827552 source:b:\mtech_adsa\solving linear equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

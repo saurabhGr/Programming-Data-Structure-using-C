@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602319918 source:b:\mtech_adsa\array_pytha\main.c
+	<stdio.h>
+	<stdlib.h>
+
