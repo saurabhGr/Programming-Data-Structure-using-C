@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601810473 source:b:\mtech_adsa\reversing_part_of_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+

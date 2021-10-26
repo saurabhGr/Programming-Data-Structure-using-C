@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601795044 source:b:\mtech_adsa\queue_opearations\main.c
+	<stdio.h>
+	<stdlib.h>
+

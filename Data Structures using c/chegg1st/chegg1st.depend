@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620475793 source:b:\mtech_adsa\chegg1st\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+

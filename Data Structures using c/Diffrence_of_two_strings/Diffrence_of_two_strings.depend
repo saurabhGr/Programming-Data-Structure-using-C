@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602165546 source:b:\mtech_adsa\diffrence_of_two_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

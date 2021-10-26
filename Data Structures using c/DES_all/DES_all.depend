@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605708763 source:b:\mtech_adsa\des_all\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608485224 source:b:\mtech_adsa\elgammmel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

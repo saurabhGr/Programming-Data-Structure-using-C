@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1620066062 source:b:\mtech_adsa\forth\main.cpp
+	<iostream>
+

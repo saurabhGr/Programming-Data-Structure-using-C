@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601197714 source:b:\mtech_adsa\sorting_radix_bucket_count\main.c
+	<stdio.h>
+	<stdlib.h>
+

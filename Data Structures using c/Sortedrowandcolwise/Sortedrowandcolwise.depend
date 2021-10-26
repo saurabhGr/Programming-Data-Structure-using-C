@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606027162 source:b:\mtech_adsa\sortedrowandcolwise\main.c
+	<stdio.h>
+	<stdlib.h>
+

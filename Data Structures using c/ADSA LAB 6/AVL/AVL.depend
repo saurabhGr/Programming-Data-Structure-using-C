@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603446419 source:b:\mtech_adsa\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603446778 source:b:\mtech_adsa\adsa lab 6\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+

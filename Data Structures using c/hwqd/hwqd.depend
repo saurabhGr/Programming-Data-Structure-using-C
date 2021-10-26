@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620457951 source:b:\mtech_adsa\hwqd\main.c
+	<stdio.h>
+	<stdlib.h>
+

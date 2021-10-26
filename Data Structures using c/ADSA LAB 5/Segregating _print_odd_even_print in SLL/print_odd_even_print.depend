@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603001270 source:b:\mtech_adsa\print_odd_even_print\main.c
+	<stdio.h>
+	<stdlib.h>
+

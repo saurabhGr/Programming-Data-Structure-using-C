@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602080889 source:b:\mtech_adsa\infixtopostfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

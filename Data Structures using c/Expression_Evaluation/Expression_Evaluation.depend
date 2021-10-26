@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606033095 source:b:\mtech_adsa\expression_evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

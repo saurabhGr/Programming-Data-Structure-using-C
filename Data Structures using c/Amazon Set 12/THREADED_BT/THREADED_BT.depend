@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606383564 source:b:\mtech_adsa\amazon set 12\threaded_bt\main.c
+	<stdio.h>
+	<stdlib.h>
+

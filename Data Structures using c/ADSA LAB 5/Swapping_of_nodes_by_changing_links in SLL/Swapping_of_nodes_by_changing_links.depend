@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603015012 source:b:\mtech_adsa\swapping_of_nodes_by_changing_links\main.c
+	<stdio.h>
+	<stdlib.h>
+

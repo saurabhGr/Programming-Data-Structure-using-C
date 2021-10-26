@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602531926 source:b:\mtech_adsa\temp_playfair and affine\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<stdlib.h>
+

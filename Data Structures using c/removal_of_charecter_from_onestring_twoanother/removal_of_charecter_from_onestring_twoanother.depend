@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606395671 source:b:\mtech_adsa\removal_of_charecter_from_onestring_twoanother\main.c
+	<stdio.h>
+	<stdlib.h>
+

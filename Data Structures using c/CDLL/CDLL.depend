@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602733666 source:b:\mtech_adsa\cdll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

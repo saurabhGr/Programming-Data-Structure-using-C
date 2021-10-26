@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601204722 source:b:\mtech_adsa\heck_sparse_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

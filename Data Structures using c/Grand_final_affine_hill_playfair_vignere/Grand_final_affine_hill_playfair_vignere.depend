@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602583592 source:b:\mtech_adsa\grand_final_affine_hill_playfair_vignere\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<stdlib.h>
+

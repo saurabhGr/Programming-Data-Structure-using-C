@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605893136 source:b:\mtech_adsa\des-experimental\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602681997 source:b:\mtech_adsa\sum_of_nodes\main.c
+	<stdio.h>
+	<stdlib.h>
+

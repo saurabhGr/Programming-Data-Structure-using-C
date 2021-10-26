@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605972702 source:b:\mtech_adsa\compression\main.c
+	<stdio.h>
+	<string.h>
+

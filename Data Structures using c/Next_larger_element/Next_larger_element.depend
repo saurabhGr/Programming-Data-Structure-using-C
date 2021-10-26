@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602264771 source:b:\mtech_adsa\next_larger_element\main.c
+	<stdio.h>
+	<stdlib.h>
+

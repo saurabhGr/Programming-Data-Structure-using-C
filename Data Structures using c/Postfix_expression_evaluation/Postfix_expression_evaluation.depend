@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602081164 source:b:\mtech_adsa\postfix_expression_evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+

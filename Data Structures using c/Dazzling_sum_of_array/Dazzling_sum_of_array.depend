@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605970608 source:b:\mtech_adsa\dazzling_sum_of_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

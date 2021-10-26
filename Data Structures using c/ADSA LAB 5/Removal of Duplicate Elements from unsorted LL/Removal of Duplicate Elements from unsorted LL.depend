@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603283083 source:b:\mtech_adsa\removal of duplicate elements from unsorted ll\main.c
+	<stdio.h>
+	<stdlib.h>
+

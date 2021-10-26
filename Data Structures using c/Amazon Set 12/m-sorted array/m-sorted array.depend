@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604231204 source:b:\mtech_adsa\amazon set 12\m-sorted array\main.c
+	<stdio.h>
+	<stdlib.h>
+

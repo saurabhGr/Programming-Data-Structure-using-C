@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606315385 source:b:\mtech_adsa\max_repeating_number_in_an_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

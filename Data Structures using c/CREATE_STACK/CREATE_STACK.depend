@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602078592 source:b:\mtech_adsa\create_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+
