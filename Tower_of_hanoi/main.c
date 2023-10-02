@@ -27,16 +27,21 @@ void tower(int n,char sp,char dp,char ap)
 
 }
 
-/*
-Output:
-Enter the number of disks:
-3
-The disks movements are:
-Move disk 1 from A to C
-Move disk 2 from A to B
-Move disk 1 from C to B
-Move disk 3 from A to C
-Move disk 1 from B to A
-Move disk 2 from B to C
-Move disk 1 from A to C
-*/
+// Enter the number of disks:
+// 4
+// The disks movements are:
+// Move disk 1 from A to B
+// Move disk 2 from A to C
+// Move disk 1 from B to C
+// Move disk 3 from A to B
+// Move disk 1 from C to A
+// Move disk 2 from C to B
+// Move disk 1 from A to B
+// Move disk 4 from A to C
+// Move disk 1 from B to C
+// Move disk 2 from B to A
+// Move disk 1 from C to A
+// Move disk 3 from B to C
+// Move disk 1 from A to B
+// Move disk 2 from A to C
+// Move disk 1 from B to C
