@@ -1,11 +1,11 @@
 # Programming-Data-Structure-using-C
 This repo is related with programming and data structure using C language.
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2023 </h1>
 
 ***
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
+        Link To HacktoberFest 2023
     </a>
 </h3>
 
@@ -33,7 +33,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 <h3 align="center">
     <a href="https://hacktoberfestswaglist.com/">
-       Hacktoberfest 2021 Swag List
+       Hacktoberfest 2023 Swag List
     </a>
 </h3>
 
