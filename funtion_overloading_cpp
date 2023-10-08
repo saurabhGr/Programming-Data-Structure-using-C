@@ -1,1 +1,29 @@
-//to update the code soon
+#include <iostream>
+
+ // Function to print an integer
+void print(int num) {
+    std::cout << "Integer: " << num << std::endl;
+}
+
+ // Function to print a double
+void print(double num) {
+    std::cout << "Double: " << num << std::endl;
+}
+
+ // Function to print a character
+void print(char c) {
+    std::cout << "Character: " << c << std::endl;
+}
+
+int main() {
+    int intValue = 42;
+    double doubleValue = 3.14;
+    char charValue = 'A';
+
+    print(intValue);       // Calls the function to print an integer
+    print(doubleValue);   // Calls the function to print a double
+    print(charValue);     // Calls the function to print a character
+
+    return 0;
+}
+
